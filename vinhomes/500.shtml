@@ -4,11 +4,12 @@
 		<TITLE>500 Internal Server Error</TITLE>
 	</HEAD>
 		<BODY>
-			<H1>Branch 1</H1>
-			<H1>Branch 3</H1>
-			<H1>Branch 2</H1>
 			<H1> Internal Server Error</H1>
-			
+			<div>
+				<H1>Branch 1</H1>
+				<H1>Branch 2</H1>
+				<H1>Branch 3</H1>
+			</div>
 			The server encountered an internal error or misconfiguration and was unable to complete your request
 			<HR>
 			<I><!--#echo var="HTTP_HOST" --></I>
