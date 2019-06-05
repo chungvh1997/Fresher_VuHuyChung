@@ -1,0 +1,1 @@
+<img src="<?=getBaseURL().'img/admin-bg.png'?>" width="100%" height="100%" alt="quản trị website"/>
