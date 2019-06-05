@@ -1,0 +1,1 @@
+<button type="button" onclick="<?=@$disabled!=""?"javascript:void(0);":"delall('{$table}');"?>" class="btn btn-danger" <?=@$disabled!='' ? "disabled" : ""?>>Xóa mục đã chọn</button>
