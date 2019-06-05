@@ -4,6 +4,7 @@
 		<TITLE>500 Internal Server Error</TITLE>
 	</HEAD>
 		<BODY>
+			<p>Bla Bla Bla</p>
 			<H1> Internal Server Error</H1>
 			<div>
 				<H1>Branch 1</H1>
